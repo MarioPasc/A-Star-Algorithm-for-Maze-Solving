@@ -3,6 +3,8 @@
 ## Project Overview
 The Micromouse Maze Solver is a Python project designed to simulate and solve mazes using algorithms implemented in a virtual mouse. This project is composed of two main Python classes, `Maze` and `Mouse`, and a Jupyter notebook for testing and demonstration purposes.
 
+![Solution Gif](outputFiles/solution50x50.gif)
+
 ## Files in the Repository
 - `maze.py`: Contains the `Maze` class, which initializes and manages the maze's structure.
 - `mouse.py`: Implements the `Mouse` class, designed to navigate through the maze using various algorithms.
